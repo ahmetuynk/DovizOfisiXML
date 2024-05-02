@@ -1,0 +1,21 @@
+D:\A C# 25 DERS 25 PROJE\DövizOfisiXML\bin\Debug\DövizOfisiXML.exe.config
+D:\A C# 25 DERS 25 PROJE\DövizOfisiXML\bin\Debug\DövizOfisiXML.exe
+D:\A C# 25 DERS 25 PROJE\DövizOfisiXML\bin\Debug\DövizOfisiXML.pdb
+D:\A C# 25 DERS 25 PROJE\DövizOfisiXML\obj\Debug\DövizOfisiXML.csproj.AssemblyReference.cache
+D:\A C# 25 DERS 25 PROJE\DövizOfisiXML\obj\Debug\DövizOfisiXML.Form1.resources
+D:\A C# 25 DERS 25 PROJE\DövizOfisiXML\obj\Debug\DövizOfisiXML.Properties.Resources.resources
+D:\A C# 25 DERS 25 PROJE\DövizOfisiXML\obj\Debug\DövizOfisiXML.csproj.GenerateResource.cache
+D:\A C# 25 DERS 25 PROJE\DövizOfisiXML\obj\Debug\DövizOfisiXML.csproj.CoreCompileInputs.cache
+D:\A C# 25 DERS 25 PROJE\DövizOfisiXML\obj\Debug\DövizOfisiXML.exe
+D:\A C# 25 DERS 25 PROJE\DövizOfisiXML\obj\Debug\DövizOfisiXML.pdb
+D:\A C# 25 DERS 25 PROJE\A GELİŞTİRİLECEKLER\DövizOfisiXML\bin\Debug\DövizOfisiXML.exe.config
+D:\A C# 25 DERS 25 PROJE\A GELİŞTİRİLECEKLER\DövizOfisiXML\bin\Debug\DövizOfisiXML.exe
+D:\A C# 25 DERS 25 PROJE\A GELİŞTİRİLECEKLER\DövizOfisiXML\bin\Debug\DövizOfisiXML.pdb
+D:\A C# 25 DERS 25 PROJE\A GELİŞTİRİLECEKLER\DövizOfisiXML\obj\Debug\DövizOfisiXML.csproj.AssemblyReference.cache
+D:\A C# 25 DERS 25 PROJE\A GELİŞTİRİLECEKLER\DövizOfisiXML\obj\Debug\DövizOfisiXML.Properties.Resources.resources
+D:\A C# 25 DERS 25 PROJE\A GELİŞTİRİLECEKLER\DövizOfisiXML\obj\Debug\DövizOfisiXML.csproj.GenerateResource.cache
+D:\A C# 25 DERS 25 PROJE\A GELİŞTİRİLECEKLER\DövizOfisiXML\obj\Debug\DövizOfisiXML.csproj.CoreCompileInputs.cache
+D:\A C# 25 DERS 25 PROJE\A GELİŞTİRİLECEKLER\DövizOfisiXML\obj\Debug\DövizOfisiXML.exe
+D:\A C# 25 DERS 25 PROJE\A GELİŞTİRİLECEKLER\DövizOfisiXML\obj\Debug\DövizOfisiXML.pdb
+D:\A C# 25 DERS 25 PROJE\A GELİŞTİRİLECEKLER\DövizOfisiXML\obj\Debug\DövizOfisiXML.AnaForm.resources
+D:\A C# 25 DERS 25 PROJE\A GELİŞTİRİLECEKLER\DövizOfisiXML\obj\Debug\DövizOfisiXML.islemSorgula.resources
